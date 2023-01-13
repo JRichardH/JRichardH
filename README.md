@@ -17,7 +17,8 @@ Linux user since 1998. Dual booting
 until about 2001. Currently running 
 MX Linux. 
 
-Other interests are baking sourdough
+Other interests are learning about, 
+baking & eating sourdough
 bread. 
 
 
