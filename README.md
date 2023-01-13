@@ -12,13 +12,18 @@ I'm an older hobby programmer:
 have developed apps in TurboPascal, 
 dBase III/IV, Delphi 3, and 
 currently learning & writing Python 3. 
-Began about 1982. 
-Linux user since 1998. Dual booting 
-until about 2001. Currently running 
-MX Linux. 
+
+Began learning about Linux in 1982 but 
+didn't actually try to install until 
+about 1997 when I found MuLinux, a 
+floppy based distro for 386 CPUs. 
+
+Failed installing Debian & Redhat in 
+1999. Succeeded with SuSE Linux in 2000.
+Dual booting until about 2001. 
+Currently running MX Linux since 2014. 
 
 Other interests are learning about, 
 baking & eating sourdough
 bread. 
-
 
